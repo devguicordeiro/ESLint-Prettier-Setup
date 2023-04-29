@@ -1,4 +1,5 @@
-# ESLint-Prettier-Setup
+# EslintPrettierSetup
 
-I created this repo just to be easier to add these helpful tools 
-to the next projects that i'll be working on
+Saving repos with easy setup to Eslint and Prettier
+</br>
+https://github.com/devguicordeiro
